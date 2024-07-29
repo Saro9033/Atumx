@@ -1,4 +1,3 @@
-// controllers/cartController.js
 const catchAsyncError = require('../middlewares/catchAsyncError');
 const Cart = require('../models/cartModel');
 
